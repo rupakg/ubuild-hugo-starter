@@ -2,7 +2,7 @@
 date = 2021-08-31T04:00:00Z
 draft = true
 layout = "blocks"
-title = "Homepage"
+title = "New Homepage"
 [[page_sections]]
 block = "header-1"
 logo = ""
