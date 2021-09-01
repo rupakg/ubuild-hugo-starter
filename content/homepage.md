@@ -3,11 +3,6 @@ date = 2021-08-31T04:00:00Z
 layout = "blocks"
 title = "New Homepage"
 [[page_sections]]
-block = "header-1"
-logo = ""
-navigation = []
-template = "navigation-header"
-[[page_sections]]
 background_image = ""
 block = "hero-2"
 content = ""
@@ -30,11 +25,6 @@ template = "content-feature"
 [page_sections.media]
 alt_text = ""
 image = ""
-[[page_sections]]
-block = "media-1"
-caption = ""
-image = ""
-template = "full-width-media-element"
 [[page_sections]]
 block = "two-column-1"
 template = "2-column-text"
