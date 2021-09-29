@@ -1,5 +1,6 @@
 +++
 date = 2021-09-28T04:00:00Z
+draft = true
 layout = "blocks"
 title = "Home 2"
 [[page_sections]]
