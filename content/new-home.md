@@ -45,5 +45,12 @@ headline = "Column 2"
 [page_sections.col_3]
 content = "Column 3 content goes here..."
 headline = "Column 3"
+[[page_sections]]
+block = "footer-2"
+col_2 = "footer column 2"
+col_3 = "footer column 3"
+col_4 = "footer column 4"
+image = "/uploads/zoom-3.jpg"
+template = "4-column-footer"
 
 +++
