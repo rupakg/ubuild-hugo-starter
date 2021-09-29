@@ -15,9 +15,9 @@ block = "header-2"
 logo = "/uploads/webintellix_logo.png"
 template = "navigation-header-w-button"
 [page_sections.cta]
-link_text = ""
-link_url = ""
-open_in_new_tab = false
+link_text = "CTA"
+link_url = "www.link.com"
+open_in_new_tab = true
 [[page_sections.navigation]]
 link_text = "Test 1"
 link_url = "www.test1.com"
