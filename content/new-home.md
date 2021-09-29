@@ -44,8 +44,8 @@ template = "3-column-text"
 content = "Column 1 content goes here..."
 headline = "Column 1"
 [page_sections.col_2]
-content = ""
-headline = ""
+content = "Column 1 content goes here..."
+headline = "Column 2"
 [page_sections.col_3]
 content = ""
 headline = ""
