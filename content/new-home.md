@@ -35,7 +35,7 @@ headline = "Content Headline..."
 media_alignment = "Left"
 template = "content-feature"
 [page_sections.media]
-alt_text = ""
+alt_text = "some alt text"
 image = "/uploads/zoom-13.jpg"
 [[page_sections]]
 block = "three-column-1"
