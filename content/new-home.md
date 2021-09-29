@@ -47,7 +47,7 @@ headline = "Column 1"
 content = "Column 1 content goes here..."
 headline = "Column 2"
 [page_sections.col_3]
-content = ""
-headline = ""
+content = "Column 3 content goes here..."
+headline = "Column 3"
 
 +++
