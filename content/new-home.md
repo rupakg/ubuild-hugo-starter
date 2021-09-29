@@ -28,5 +28,14 @@ open_in_new_tab = true
 [page_sections.image]
 alt_text = ""
 image = ""
+[[page_sections]]
+block = "feature-1"
+content = "This is the content for content..."
+headline = "Content Headline..."
+media_alignment = "Right"
+template = "content-feature"
+[page_sections.media]
+alt_text = ""
+image = "/uploads/zoom-13.jpg"
 
 +++
