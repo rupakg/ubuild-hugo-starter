@@ -32,7 +32,7 @@ image = ""
 block = "feature-1"
 content = "This is the content for content..."
 headline = "Content Headline..."
-media_alignment = "Right"
+media_alignment = "Left"
 template = "content-feature"
 [page_sections.media]
 alt_text = ""
