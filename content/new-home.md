@@ -29,14 +29,10 @@ open_in_new_tab = true
 alt_text = ""
 image = ""
 [[page_sections]]
-block = "feature-1"
-content = "This is the content for content..."
-headline = "Content Headline..."
-media_alignment = "Left"
-template = "content-feature"
-[page_sections.media]
-alt_text = "some alt text"
+block = "media-1"
+caption = "some media"
 image = "/uploads/zoom-13.jpg"
+template = "full-width-media-element"
 [[page_sections]]
 block = "three-column-1"
 template = "3-column-text"
