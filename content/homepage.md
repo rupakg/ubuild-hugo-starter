@@ -4,7 +4,7 @@ layout = "blocks"
 title = "Home 2"
 [[page_sections]]
 block = "header-2"
-logo = ""
+logo = "/uploads/webintellix_logo.png"
 navigation = []
 template = "navigation-header-w-button"
 [page_sections.cta]
