@@ -37,5 +37,17 @@ template = "content-feature"
 [page_sections.media]
 alt_text = ""
 image = "/uploads/zoom-13.jpg"
+[[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = "Column 1 content goes here..."
+headline = "Column 1"
+[page_sections.col_2]
+content = ""
+headline = ""
+[page_sections.col_3]
+content = ""
+headline = ""
 
 +++
