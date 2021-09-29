@@ -1,7 +1,7 @@
 +++
 date = 2021-08-31T04:00:00Z
 layout = "blocks"
-title = "New Homepage"
+title = "Home 2"
 [[page_sections]]
 block = "header-2"
 logo = ""
